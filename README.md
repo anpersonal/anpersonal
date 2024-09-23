@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anpersonal, but you can call me Andrew
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in Software Development and Artificial Intelligence
-- 🌱 I’m currently learning more about Artificial Intelligence
+- 🌱 Currently, I am learning about CNNS, RNNS, GRUs, and LSTMs
 - 💞️ I’m looking to collaborate on anything that can have a positive impact on society
 - 📫 How to reach me: mash.bobble_0r@icloud.com
 - 😄 Pronouns: He/Him
